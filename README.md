@@ -1,27 +1,12 @@
-# Project name here
-> Summary description here.
+# Tutorial on using nbdev library
+> nbdev tutorial.
 
-
-This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbdev_tutorial`
 
 ## How to use
-
-Fill me in please! Don't forget code examples:
-
-```python
-1+1
-```
-
-
-
-
-    2
-
-
 
 ```python
 say_hello("GitHub")
