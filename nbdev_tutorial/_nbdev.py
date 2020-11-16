@@ -6,8 +6,8 @@ index = {"say_hello": "00_core.ipynb"}
 
 modules = ["core.py"]
 
-doc_url = "https://goopyflux.github.io/nbdev_template/"
+doc_url = "https://goopyflux.github.io/nbdev_tutorial/"
 
-git_url = "https://github.com/goopyflux/nbdev_template/tree/master/"
+git_url = "https://github.com/goopyflux/nbdev_tutorial/tree/master/"
 
 def custom_doc_links(name): return None
